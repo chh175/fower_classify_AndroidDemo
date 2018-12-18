@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "H:\\python\\tf_lite\\12_18_2_demo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_info.png",
+        "source": "H:\\python\\tf_lite\\12_18_2_demo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    }
+]

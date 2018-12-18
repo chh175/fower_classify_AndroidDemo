@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\b10cc379df1575b6b6049596d1e42fa7961cbc2a\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

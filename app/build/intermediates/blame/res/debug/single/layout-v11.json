@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Users\\ch\\Desktop\\fower_classify_AndroidDemo\\fower_classify_AndroidDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\python\\tf_lite\\12_18_2_demo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\ch\\.android\\build-cache\\998f0eea5b84b0121733cc0778caf673e5283b03\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
