@@ -1,0 +1,4 @@
+# fower_classify_AndroidDemo
+花卉识别AndroidDemo
+
+用AndroidStudio将该项目添加进安卓工程编译即可
