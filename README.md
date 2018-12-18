@@ -1,4 +1,6 @@
 # fower_classify_AndroidDemo
 花卉识别AndroidDemo
 
-用AndroidStudio将该项目添加进安卓工程编译即可
+用AndroidStudio将该项目添加进安卓工程编译即可。
+
+默认使用的是8Bit量化的数据类型，若要使用普通的float32类型，在Camera2BasicFragment.java里把ImageClassifierQuantizedMobileNet换成ImageClassifierFloatInception，tflite模型名字和输入分辨率也要修改
